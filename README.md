@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm manvideore21</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+develper;Passionate+about+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+web+develper;Passionate+about+Tech)](https://git.io/typing-svg)
 
 ### How to reach me: 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_manvideore_/)
